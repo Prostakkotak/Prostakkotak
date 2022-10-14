@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=Prostakkotak" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Prostakkotak" height="150" alt="languages graph"  />
+<div align="center" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=Prostakkotak" height="150" width="100%" alt="stats graph"  />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Prostakkotak" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -28,10 +28,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Prostakkotak/Prostakkotak/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
