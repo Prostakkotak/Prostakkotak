@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -35,8 +31,7 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Prostakkotak/Prostakkotak/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+Profile Readme Generator
