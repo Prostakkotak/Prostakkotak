@@ -19,6 +19,6 @@
 
 # Гитхаб статы
 <div float="left">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProstakKotak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ProstakKotak&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProstakKotak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ProstakKotak&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
