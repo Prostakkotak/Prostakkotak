@@ -17,10 +17,3 @@
 Из примечательного, работал с Google Maps API (прикрепил ниже пикчу) и либой Chart.js (о котором мало чего могу сказать тк по большей части просто фиксил баги за прошлыми разрабами). По гугл мапе: как можно заметить, самое основное это кастомные тайлы и модалка появляющаяся при клике на любой из них. Из мелочей - кастомные метки, свои органы управления, своя цветовая тема (кстати со светлой версией и живым переключением без перезагрузки карты)
 
 <img width="50%" src="https://github.com/Prostakkotak/Prostakkotak/blob/main/gmap.png" />
-
-
-# Гитхаб статы
-<div float="left">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProstakKotak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ProstakKotak&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
