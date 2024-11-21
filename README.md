@@ -1,4 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=Prostakkotak&color=green)
 
 
-### Я Серёжа и делаю фронтенд на Vue/TS
+### Hi! I'm Sergey and working mainly on Vue/Nuxt/TS projects as Frontend dev. 
